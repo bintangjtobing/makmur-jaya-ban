@@ -1,0 +1,61 @@
+.logo-default img,
+.logo-dark img {
+    height: 80px;
+    width: auto;
+    padding-bottom: 10px;
+}
+
+#section2 {
+    background-color: #0089e1;
+}
+
+#section2 h2 {
+    margin-bottom: 10px;
+}
+
+#section2 h2,
+#section2 .lead {
+    color: #fff;
+}
+
+#fiturss {
+    background-color: #0089e1;
+}
+
+.variouspall img {
+    height: 300px;
+}
+
+.variouscolor {
+    background-color: #e0e0e0;
+}
+
+.imgvarious img {
+    margin: 40px 0px;
+    border-radius: 50%;
+    border: 3px solid #Fff;
+}
+
+.imgvarious .col-lg-2:hover {
+    transition: .5s ease-in-out;
+    cursor: pointer;
+    background-color: rgba(255, 255, 255, 0.25);
+    border-radius: .35rem;
+}
+
+.grid li a img {
+    filter: grayscale(100%);
+}
+
+.grid li a img:hover {
+    cursor: pointer;
+    transition: .5s ease-in-out;
+    filter: grayscale(0);
+}
+
+#slider {
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 500px;
+    object-fit: cover;
+}
