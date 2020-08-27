@@ -141,10 +141,12 @@
                                                 </ul>
                                             </li>
                                             <li><a href="#">Aki Mobil</a></li>
+                                            <li><a href="#">Batere Mobil</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="#">Store</a></li>
                                     <li><a href="#">Workshop</a></li>
+                                    <li><a href="#">Galery</a></li>
                                     <li><a href="#">Blog & Tips</a></li>
                                     <li><a href="#">About Us</a></li>
                                 </ul>

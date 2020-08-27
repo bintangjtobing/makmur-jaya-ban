@@ -815,6 +815,131 @@ euroupvc.co.id! Pembayaran mudah, pengiriman Mobil cepat, desain bisa custom!')
         </div>
     </div>
 </section>
+<section id="section3" class="no-padding">
+    <div id="portfolio" class="grid-layout portfolio-4-columns" data-margin="0">
+
+        <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
+            <div class="portfolio-item-wrap">
+                <div class="portfolio-image">
+                    <a href="#"><img src="{!!asset('homepages/car-service/images/gallery/1.jpg')!!}" alt=""></a>
+                </div>
+                <div class="portfolio-description">
+                    <a title="Makmur Jaya Ban - Servis Mobil" data-lightbox="image"
+                        href="{!!asset('homepages/car-service/images/gallery/1.jpg')!!}"
+                        class="btn btn-light btn-rounded">Zoom</a>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="portfolio-item img-zoom ct-photography ct-media ct-branding ct-Media">
+            <div class="portfolio-item-wrap">
+                <div class="portfolio-image">
+                    <a href="#"><img src="https://everydayusedcars.com/wp-content/uploads/2017/01/BMW-Car-Services.jpg"
+                            alt=""></a>
+                </div>
+                <div class="portfolio-description">
+                    <a title="Makmur Jaya Ban - Servis Mobil" data-lightbox="image"
+                        href="https://everydayusedcars.com/wp-content/uploads/2017/01/BMW-Car-Services.jpg"
+                        class="btn btn-light btn-rounded">Zoom</a>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="portfolio-item img-zoom ct-photography ct-media ct-branding ct-marketing ct-webdesign">
+            <div class="portfolio-item-wrap">
+                <div class="portfolio-image">
+                    <a href="#"><img src="https://www.thecarmech.com/wp-content/uploads/2020/06/new-image.jpg"
+                            alt=""></a>
+                </div>
+                <div class="portfolio-description">
+                    <a title="Makmur Jaya Ban - Servis Mobil" data-lightbox="image"
+                        href="https://www.thecarmech.com/wp-content/uploads/2020/06/new-image.jpg"
+                        class="btn btn-light btn-rounded">Zoom</a>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="portfolio-item img-zoom ct-marketing ct-media ct-branding ct-marketing ct-webdesign">
+            <div class="portfolio-item-wrap">
+                <div class="portfolio-image">
+                    <a href="#"><img src="https://www.verold.com/wp-content/uploads/2018/10/car-servicing-1.jpg"
+                            alt=""></a>
+                </div>
+                <div class="portfolio-description">
+                    <a title="Makmur Jaya Ban - Servis Mobil" data-lightbox="image"
+                        href="https://www.verold.com/wp-content/uploads/2018/10/car-servicing-1.jpg"
+                        class="btn btn-light btn-rounded">Zoom</a>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="portfolio-item img-zoom ct-photography ct-media ct-branding ct-marketing ct-webdesign">
+            <div class="portfolio-item-wrap">
+                <div class="portfolio-image">
+                    <a href="#"><img src="https://www.chigwellmotorworks.co.uk/images/car-service-in-dublin.jpg"
+                            alt=""></a>
+                </div>
+                <div class="portfolio-description">
+                    <a title="Makmur Jaya Ban - Servis Mobil" data-lightbox="image"
+                        href="https://www.chigwellmotorworks.co.uk/images/car-service-in-dublin.jpg"
+                        class="btn btn-light btn-rounded">Zoom</a>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="portfolio-item img-zoom ct-photography ct-media ct-branding ct-Media ct-marketing ct-webdesign">
+            <div class="portfolio-item-wrap">
+                <div class="portfolio-image">
+                    <a href="#"><img
+                            src="https://www.checkinjakarta.id/assets_web/images/article/ffc943fc9fdeeb9368b3d321bf5dec8b.jpg"
+                            alt=""></a>
+                </div>
+                <div class="portfolio-description">
+                    <a title="Makmur Jaya Ban - Servis Mobil" data-lightbox="image"
+                        href="https://www.checkinjakarta.id/assets_web/images/article/ffc943fc9fdeeb9368b3d321bf5dec8b.jpg"
+                        class="btn btn-light btn-rounded">Zoom</a>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
+            <div class="portfolio-item-wrap">
+                <div class="portfolio-image">
+                    <a href="#"><img
+                            src="https://www.bobsmechanicalrepairs.co.uk/storage/temp/public/resized/lossy-auto-90-1200/car-servicing.jpg"
+                            alt=""></a>
+                </div>
+                <div class="portfolio-description">
+                    <a title="Makmur Jaya Ban - Servis Mobil" data-lightbox="image"
+                        href="https://www.bobsmechanicalrepairs.co.uk/storage/temp/public/resized/lossy-auto-90-1200/car-servicing.jpg"
+                        class="btn btn-light btn-rounded">Zoom</a>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="portfolio-item img-zoom ct-marketing ct-media ct-branding ct-marketing ct-webdesign">
+            <div class="portfolio-item-wrap">
+                <div class="portfolio-image">
+                    <a href="#"><img src="https://topmotoric.com/wp-content/uploads/2019/07/maxresdefault.jpg"
+                            alt=""></a>
+                </div>
+                <div class="portfolio-description">
+                    <a title="Makmur Jaya Ban - Servis Mobil" data-lightbox="image"
+                        href="https://topmotoric.com/wp-content/uploads/2019/07/maxresdefault.jpg"
+                        class="btn btn-light btn-rounded">Zoom</a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
 <section>
     <div class="container">
         <div class="line"></div>
