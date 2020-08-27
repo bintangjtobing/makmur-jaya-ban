@@ -147,8 +147,9 @@
                                     <li><a href="#">Store</a></li>
                                     <li><a href="#">Workshop</a></li>
                                     <li><a href="#">Galery</a></li>
-                                    <li><a href="#">Blog & Tips</a></li>
+                                    <li><a href="#">News</a></li>
                                     <li><a href="#">About Us</a></li>
+                                    <li><a href="#">Contact Us</a></li>
                                 </ul>
                             </nav>
                         </div>
@@ -194,6 +195,36 @@
                                                     class="fab fa-instagram"></i></a>
                                         </li>
                                     </ul>
+                                </div>
+                            </div>
+                            <div class="col-lg-12 m-b-30">
+                                <h4>Metode Pembayaran</h4>
+                                <p>Kami memprioritaskan kemudahan anda dalam bertransaksi di toko ataupun di dalam situs
+                                    ini.
+                                </p>
+                                <div class="row">
+                                    <div class="col-lg-6">
+                                        <div class="paymentsection">
+                                            <img class="img-fluid" src="{!!asset('images/payment/mastercard.png')!!}"
+                                                alt="">
+                                            <img class="img-fluid" src="{!!asset('images/payment/visa.png')!!}" alt="">
+                                            <img class="img-fluid" src="{!!asset('images/payment/atm-bersama.png')!!}"
+                                                alt="">
+                                            <img class="img-fluid" src="{!!asset('images/payment/bank-transfer.png')!!}"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    {{-- <div class="col-lg-6">
+                                        <div class="paymentsection">
+                                            <img class="img-fluid" src="{!!asset('images/payment/bca.png')!!}" alt="">
+                                            <img class="img-fluid" src="{!!asset('images/payment/bni.png')!!}" alt="">
+                                            <img class="img-fluid" src="{!!asset('images/payment/bri.png')!!}" alt="">
+                                            <img class="img-fluid" src="{!!asset('images/payment/cimb-niaga.png')!!}"
+                                                alt="">
+                                            <img class="img-fluid" src="{!!asset('images/payment/mandiri.png')!!}"
+                                                alt="">
+                                        </div>
+                                    </div> --}}
                                 </div>
                             </div>
                         </div>
